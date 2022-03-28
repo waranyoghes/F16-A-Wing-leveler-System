@@ -1,1 +1,1 @@
-# LQR_Implementation_for_control_of_Linearized_model_of_F18-A-Hornet
+# LQR Implementation for wing level control for the Linearized_model_of F16-A
